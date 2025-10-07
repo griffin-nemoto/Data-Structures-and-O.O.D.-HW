@@ -1,0 +1,19 @@
+All files relating to each homework assignment is in its respective folder, below is the table of contents explaining the function of each assignment and what to find in each file
+Some code segments were given as part of the instructions for the assignment, which are mostly shown by comments within the code
+Certain assignments include test files, some given alongside the instructions, some created by me. 
+
+
+HW1: Basic calculations and reading from text file
+weather_analysis.py: Uses data from a text file to return various information from the file after reading it
+main.py: Prints data gathered in weather_analysis
+
+HW2: Creating python objects and practicing inheritance between parent and child objects
+smart_home.py: Creates parent object(SmartDevice) and respective child objects(Light,Thermostat,Speaker), as well as a separate object type(SmartHome) to organize the SmartDevices
+
+HW3: Finding common elements in randomly generate lists of the same size using different methods to learn time complexity/Big O
+hw3.py: Generates random lists and finds common elements using an O(n^2) function and an O(n) function
+
+HW4: Creates the CircularQueue(CQ) data structure to support O(n) or O(1) operations for adding, removing, and returning objects
+process.py: Creates Process objects to be used within the Circular Queue
+circularqueue.py: Creates CQ data structure, holding process objects and creating functions to complete various operations 
+
